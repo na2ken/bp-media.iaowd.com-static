@@ -32,4 +32,4 @@ WordPressのテーマ作成用サンプルファイル。
 
 ## License
 
-[![MIT License](http://b4b4r07.mit-license.org)](LICENSE)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](http://b4b4r07.mit-license.org)
