@@ -1,7 +1,5 @@
 # bp-media.iaowd.com-static
 
-![Badge Status](http://bp-media,iaowd.com)
-
 ## Overview
 
 WordPressのテーマをゼロから作成するための静的ファイル。
@@ -12,7 +10,8 @@ WordPressのテーマをゼロから作成するための静的ファイル。
 
 ## DEMO
 
-[![DEMO SITE](https://img.shields.io/badge/DEMO-http%3A%2F%2Fbp--media.iaowd.com-green.svg)](http://bp-media,iaowd.com)
+[![DEMO SITE](https://img.shields.io/badge/DEMO-http%3A%2F%2Fbp--media.iaowd.com%2F-green.svg)](http://bp-media.iaowd.com/)
+
 ## Features
 
 - コピペでWordPressの独自テーマができる
