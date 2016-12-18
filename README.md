@@ -1,5 +1,7 @@
 # bp-media.iaowd.com-static
 
+![WordPress Theme BootPress](http://bp-media.iaowd.com/wp-content/themes/bootpress-media/screenshot.png "WordPress Theme BootPress")
+
 ## Overview
 
 WordPressのテーマをゼロから作成するための静的ファイル。
