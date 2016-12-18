@@ -4,15 +4,16 @@
 
 ## Overview
 
-WordPressのテーマ作成用サンプルファイル。
+WordPressのテーマをゼロから作成するための静的ファイル。
 
 ## Description
 
-「独自テーマをゼロから作成する」のサンプルサイトの静的ファイル。
+このrepositoryは、ビギナー向けです。私のオリジナル講座「独自テーマをゼロから作成する」のサンプルファイルです。
 
 ***DEMO:***
+## DEMO
 
-![Demo](http://bp-media,iaowd.com)
+(http://bp-media,iaowd.com)
 
 ## Features
 
