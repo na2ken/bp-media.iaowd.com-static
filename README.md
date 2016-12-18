@@ -20,12 +20,6 @@ WordPressのテーマ作成用サンプルファイル。
 - PHPが全くできなくてもOK
 - ...
 
-## Requirement
-
-- Requirement
-- Requirement
-- Requirement
-
 ## Usage
 
 1. レクチャーをよく読む(http://www.iaowd.com/p-lesson/wordpress-l/s-wp02-l02/)
@@ -38,4 +32,4 @@ WordPressのテーマ作成用サンプルファイル。
 
 ## License
 
-[MIT](http://b4b4r07.mit-license.org)
+[![MIT License](http://b4b4r07.mit-license.org)](LICENSE)
