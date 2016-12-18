@@ -10,11 +10,9 @@ WordPressのテーマをゼロから作成するための静的ファイル。
 
 このrepositoryは、ビギナー向けです。私のオリジナル講座「独自テーマをゼロから作成する」のサンプルファイルです。
 
-***DEMO:***
 ## DEMO
 
-(http://bp-media,iaowd.com)
-
+[![DEMO SITE](https://img.shields.io/badge/DEMO-http%3A%2F%2Fbp--media.iaowd.com-green.svg)](http://bp-media,iaowd.com)
 ## Features
 
 - コピペでWordPressの独自テーマができる
